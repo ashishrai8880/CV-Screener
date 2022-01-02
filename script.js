@@ -86,5 +86,6 @@ function change() {
         </ul>`
     }else{
         alert("End of Cadidate Application");
+        window.location.reload();
     }
 }
